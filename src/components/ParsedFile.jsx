@@ -25,7 +25,6 @@ function ParsedFile() {
               <thead>
                 <tr>
                   <th>#</th>
-                  <th>Header</th>
                   <th>Carrier</th>
                   <th>UDL's</th>
                 </tr>
@@ -33,27 +32,22 @@ function ParsedFile() {
               <tbody>
                 <tr>
                   <td>1</td>
-                  <td> "Header": "CPM"</td>
                   <td> "AirlineDesignator": "EY"</td>
                   <td> "ULDBayDesignation": "AL",</td>
                 </tr>
                 <tr>
                   <td>2</td>
-                  <td></td>
                   <td>"FlightNumber": "972",</td>
 
                   <td> "ULDTypeCode": "PMC77612EY",</td>
                 </tr>
                 <tr>
                   <td>3</td>
-                  <td></td>
                   <td> "DepartureDate": "11",</td>
                   <td> "UnloadingStation": "AUH",</td>
                 </tr>
                 <tr>
                   <td>4</td>
-                  <td> </td>
-                  <td> </td>
                   <td> "Weight": "1915",</td>
                 </tr>
               </tbody>

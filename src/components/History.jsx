@@ -9,19 +9,19 @@ function History() {
         <h3>Parsed Files History</h3>
         <ListGroup>
           <ListGroup.Item action variant="danger" className="my-2">
-            File One
+            file1.pcm
           </ListGroup.Item>
           <ListGroup.Item action variant="danger" className="my-2">
-            File Two
+            file2.pcm
           </ListGroup.Item>
           <ListGroup.Item action variant="danger" className="my-2">
-            File Three
+            file3.pcm
           </ListGroup.Item>
           <ListGroup.Item action variant="danger" className="my-2">
-            File Four
+            fil41.pcm
           </ListGroup.Item>
           <ListGroup.Item action variant="danger" className="my-2">
-            File Five
+            fil51.pcm
           </ListGroup.Item>
         </ListGroup>
       </Container>
