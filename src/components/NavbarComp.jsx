@@ -3,9 +3,9 @@ import Navbar from "react-bootstrap/Navbar";
 
 function NavbarComp() {
   return (
-    <Navbar expand="lg" variant="dark" bg="dark">
+    <Navbar expand="lg" variant="dark" bg="dark" className="mb-4 shadow">
       <Container>
-        <Navbar.Brand href="#">Algorithm Pirates</Navbar.Brand>
+        <Navbar.Brand href="#">Eithad Smart CPM parser</Navbar.Brand>
       </Container>
     </Navbar>
   );
